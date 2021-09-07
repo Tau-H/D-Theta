@@ -219,10 +219,16 @@
 
 \entry{giki}{N/A}{Conjunction}{If} %Yes, this IS distinct from bosaʃegu. This is more like "If you're hungry you should probably eat", not "In the event of emergency, remain calm" -C
 
-\entry{patoʃi}{pa-toshi}{Verb}{To hug, to embrace} %NEED -T
+\entry{patoʃi}{pa-toshi}{Verb}{To hug, to embrace, to cuddle or snuggle} %NEED -T
 
 \entry{ʃeoseti}{shayo-seti}{Verb}{To surround}
 
 \entry{obuneʒa}{obu-nezha}{Noun}{Warmth}
 
+\entry{denis}{denis}{denis}{denis} %What the fuck is this supposed to mean -T
+%denis -denis
+%I'm going to remove your organs. -T
+%you misspelled denis -denis
+
+\entry{veʒa}{ve-zha}{Noun}{Context}
 \end{document}
