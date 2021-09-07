@@ -1,0 +1,228 @@
+\documentclass[10pt,a4paper,twoside]{article}
+\usepackage[top=3.5cm,bottom=3.5cm,left=3.7cm,right=4.7cm,columnsep=30pt]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{tipa}
+\usepackage{noto}
+\usepackage{microtype}
+\usepackage{multicol}
+\usepackage[bf,sf,center]{titlesec}
+\usepackage{fancyhdr}
+\fancyhead[L]{\textsf{\rightmark}}
+\fancyhead[R]{\textsf{\leftmark}}
+\renewcommand{\headrulewidth}{1.4pt}
+\fancyfoot[C]{\textbf{\textsf{\thepage}}}
+\renewcommand{\footrulewidth}{1.4pt}
+\pagestyle{fancy}
+\newcommand{\entry}[4]{\markboth{#1}{#1}\textbf{#1}\ {(#2)}\ \textit{#3}\ $\bullet$\ {#4}}
+\begin{document}
+
+\section*{CTRL+F is your friend.} %Correction: I am too lazy to sort the dictionary, fuck you. -C
+
+\entry{Dʒoθipopu}{jo-THI-popu}{Noun}{A conlang designed by ChoccolateMilk in collaboration with Tau}
+
+\entry{ʒiŋjue}{Xing-yu}{Expletive}{Used to express frustration or anger}
+
+\entry{zeu}{zeyu}{Pronoun}{You, Your}
+
+\entry{fe}{fey}{Particle}{Similar to "is", "are", "am", "be"}
+
+\entry{tokae}{to-KAY}{Descriptor}{Homosexual, In a Homosexual Manner}
+
+\entry{kova}{KO-va}{Derogatory}{(a) Stupid Person, Colloquially "Retard"}
+
+\entry{ʃage}{sha-ge}{Verb}{To know or understand}
+
+\entry{ʃazo}{sha-zo}{Verb}{To see (something)}
+
+\entry{ʃi-}{shi}{Prefix}{Negative particle: Not, Didn't, Don't, Etc}
+
+\entry{etu}{E-tu}{Pronoun}{I, Me, My}
+
+\entry{ugeoa}{uu-gei-owa}{Noun}{Colloquialism, The content of one's speech, "What X is saying"}
+
+\entry{ve}{vey}{Particle}{EoSP, makes the sentence a question}
+
+\entry{ate}{a-tey}{Exclamation}{No}
+
+\entry{bisipe}{BI-si-pe}{Exclamation}{Maybe}
+
+\entry{itape}{II-ta-pe}{Exclamation}{Probably}
+
+\entry{ta}{N/A}{Exclamation}{Yes}
+
+\entry{soðase}{so-tha-sey}{Descriptor}{Cute or Adorable}
+
+\entry{tasu}{ta-SU}{Pronoun}{He/Him, Boy}
+
+\entry{ʃazo}{sha-zo}{Pronoun}{She/Her, Girl}
+
+\entry{tosei}{toh-say}{Pronoun}{They/Them, Andro(gyne)}
+
+\entry{ige}{ii-gey}{Verb}{To wait}
+
+\entry{tikei}{tii-kay}{Noun}{Food}
+
+\entry{dote}{DO-tay}{Verb}{To want}
+
+\entry{ʃa-}{N/A}{Prefix}{Makes word more intense, like "Very" or "Severe"}
+
+\entry{eði}{e-thi}{Verb}{To obtain}
+
+\entry{-da}{N/A}{Suffix}{Makes the attached word Theoretical Ex eði-da = Would obtain}
+
+\entry{pioðukoʒi}{PIO-thu-kozhi}{Noun}{Depression (Mental Illness)}
+
+\entry{ezu}{N/A}{Exclamation}{Equivalent of Hello}
+
+\entry{ʃohita}{sho-HI-ta}{Descriptor}{Cool (Person, Activity, etc)}
+
+\entry{buoki}{N/A}{Noun}{(A) Person}
+
+\entry{keʃu}{ke-shu}{Noun}{Visual art}
+
+\entry{ediʒi}{edi-zhi}{Noun}{Auditory art}
+
+\entry{utufo}{N/A}{Noun}{Physical art}
+
+\entry{wa}{N/A}{Particle}{Also, Too, As well, And, etc}
+
+\entry{ʒaðe}{zha-the}{Verb}{To appear in a certain manner (Determined by prev. Descriptor)}
+
+\entry{eðite}{e-thi-te}{Verb}{To search}
+
+\entry{-do}{N/A}{Suffix}{Sets Current/In-progress tense}
+
+\entry{alaðo}{ala-tho}{Noun}{Group}
+
+\entry{ʃise}{shi-se}{Noun}{Order (of a list)}
+
+\entry{bauðoʃi}{bow-tho-shi}{Descriptor}{Alive}
+
+\entry{bauðoʃo}{bow-tho-sho}{Noun}{Life}
+
+\entry{asiko}{a-si-ko}{Verb}{Sex} 
+
+\entry{sana}{N/A}{Exclamation}{Colloquialism for HP Choke} 
+%Why the hell does line 106 even exist? -T %Skill issue -C
+\entry{uðuugo}{u-thuu-go}{???}{One's current Physical, Mental, or Emotional state}
+
+\entry{ðudife}{thu-di-fe}{Noun}{Time}
+
+\entry{koa}{N/A}{Noun}{Active chatroom member}
+
+\entry{peo}{N/A}{Prefix}{Sets future tense}
+
+\entry{piʒii}{pi-zhii}{Noun/Expletive}{Poop, Feces (Sometimes expletive "Shit")}
+
+\entry{eki}{e-ki}{Article}{The}
+
+\entry{ʒupu}{zhu-pu}{Preposition}{Just (recently)}
+
+\entry{pouaŋe}{po-ang-e}{Verb}{To give birth}
+
+\entry{tiʃoe}{ti-sho-e}{Descriptor}{Using, Via, With, etc}
+
+\entry{ake}{N/A}{Noun}{Penis}
+
+\entry{ʒetafa}{zhe-ta-fa}{Descriptor}{(Has been) Traumatized}
+
+\entry{bauðudife}{bow-thu-dife}{Descriptor}{Lifelong, For Life}
+
+\entry{deto}{N/A}{??}{Will (do)}
+
+\entry{veatiʃo}{veya-TI-sho}{Verb}{To shatter (like glass)}
+
+\entry{tukeʒi}{too-ke-zhi}{Particle}{Like (Alike, Similar)}
+
+\entry{geðo}{ge-tho}{Verb}{To have, To possess}
+
+\entry{dite}{dee-tay}{Pronoun}{Generic "That/This"}
+
+\entry{doðigu}{do-thi-gu}{Noun}{(A) Language}
+
+\entry{tuute}{too-te}{Derogatory}{Promiscuous person (Gender Neutral)}
+
+\entry{niidʒi}{nii-ji}{Descriptor}{(is) Good}
+
+\entry{botu}{N/A}{Noun}{Morning}
+
+\entry{wadu}{wa-do}{Noun}{Afternoon}
+
+\entry{tupu}{N/A}{Noun}{Night}
+
+\entry{efepei}{e-fe-pay}{Descriptor}{A little, Not Much}
+
+\entry{kuʃe}{ku-she}{Verb}{To be horny} %@Tau this you? -C %DJFVSJ:DJFVSJDFJSVJ:DFS -T %Bottom~ -C
+
+\entry{piu}{N/A}{Particle}{For something/someone}
+
+\entry{iʃuu}{ii-shu}{Noun}{Day}
+
+\entry{vat}{N/A}{Descriptor}{New, Fresh}
+
+\entry{kote}{ko-tay}{Noun}{Meat, Flesh}
+
+\entry{ʒaki}{zha-ki}{Verb}{To get damaged}
+
+\entry{ʒakaa}{zha-kaa}{Descriptor}{To be damaged}
+
+\entry{zepoguku}{N/A}{Noun/Descriptor}{Brain, Mentally}
+
+\entry{obe}{o-bay}{Context-Heavy}{How}
+
+\entry{goʃuu}{go-shuu}{Context-Heavy}{What}
+
+\entry{ʒooʃi}{zhoo-shi}{Noun}{(Something's) meaning}
+
+\entry{ʃetupo}{she-tu-po}{Noun}{Something's Function/Purpose}
+
+\entry{ðato}{tha-to}{}{}
+
+\entry{gibua}{gi-bwa}{Derogatory}{Bitch (also gender neutral)}
+
+\entry{deiʒato}{de-i-zha-to}{Verb}{To be afraid/scared}
+
+\entry{egepo}{N/A}{Noun}{Mother}
+
+\entry{bosaʃegu}{bo-sa-shegu}{?}{In case (of), In the event of}
+
+\entry{keigutu}{kay-goo-tu}{Noun}{Evening}
+
+\entry{ofuka}{oh-fu-ka}{Adverb}{Again}
+
+\entry{ʒu}{zhu}{Verb}{Shall}
+
+\entry{godegi}{N/A}{?}{More}
+
+\entry{bedazo}{N/A}{Noun}{Donation(s)}
+
+\entry{omubeðipu}{ohmube-thi-pu}{Colloquialism}{like "happy (event)"}
+
+\entry{pouaŋiʃuu}{po-angi-shuu}{Noun}{Birthday (lit. "Day of Birth")}
+
+\entry{-ðeoge}{they-ohg}{Suffix}{Eq. -Emia, meaning Presence in Blood}
+
+\entry{duʃiŋi}{du-shing-ii}{Noun/Verb}{Presence, To be present}
+
+\entry{ʒau}{zhau}{???}{In, Inside (of)}
+
+\entry{deðo}{de-tho}{N,V}{Blood, To Bleed}
+
+\entry{ʃeita}{shay-ta}{Descriptor}{Tasty, Yummy}
+
+\entry{suku}{N/A}{Noun}{Semen, Cum, Sperm} %heh, cum -C
+%I swear 212 and 214 aren't related -C
+\entry{vaku}{N/A}{Verb}{To cease, stop, or halt}
+
+\entry{depeʃi}{de-peshi}{V,N}{To exist, Existence}
+
+\entry{giki}{N/A}{Conjunction}{If} %Yes, this IS distinct from bosaʃegu. This is more like "If you're hungry you should probably eat", not "In the event of emergency, remain calm" -C
+
+\entry{patoʃi}{pa-toshi}{Verb}{To hug, to embrace} %NEED -T
+
+\entry{ʃeoseti}{shayo-seti}{Verb}{To surround}
+
+\entry{obuneʒa}{obu-nezha}{Noun}{Warmth}
+
+\end{document}
